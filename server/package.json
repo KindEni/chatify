@@ -1,0 +1,22 @@
+{
+  "name": "chatify",
+  "version": "1.0.0",
+  "description": "A Real-time chatapp with Graphql",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KindEni/chatify.git"
+  },
+  "author": "Onyedikachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KindEni/chatify/issues"
+  },
+  "homepage": "https://github.com/KindEni/chatify#readme",
+  "dependencies": {
+    "graphql-yoga": "^2.13.2"
+  }
+}
